@@ -2,7 +2,7 @@
 
 Hi. I am Bhavya Patel. I built this as a sample project.
 
-Shree Car Care is not a real client. It is a made-up detailing centre in Anand. I made the data so I could show how a small business can see its sales, services and cash in one place.
+Shree Car Care is not a real client. It is a made-up detailing centre in Anand. I made the data so I could show how a service business can see its sales, services and cash in one place.
 
 The data is sample only. Jan to Jun 2026. 120 days. 320 bookings.
 
@@ -67,7 +67,7 @@ I wrote more about this in `data/data_notes.md`.
 
 ## What this is for
 
-If you run a small service business, this shows:
+If you run a detailing centre, this shows:
 
 - Which services bring in the most money.
 - Which months are slow.

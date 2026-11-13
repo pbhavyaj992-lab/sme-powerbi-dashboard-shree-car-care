@@ -76,3 +76,9 @@ If you run a detailing centre, this shows:
 - What is left after expenses.
 
 That is it. No big claims. Just a clear dashboard for a small shop.
+
+## What I would do differently
+
+- There is no `.pbix` in this repo. I would build the three-page report in Power BI Desktop from `docs/dax_measures.md` and `docs/powerbi_setup.md`, and check every measure against the CSVs.
+- 320 bookings over 120 days is thin for trend analysis. Next time I would generate a full year of data so monthly and seasonal patterns are visible instead of inferred.
+- The data is a sample, not a real shop. On a real client's data I would keep the same structure but let the cleaning rules come from their actual sheet, including the messy notes, missing phones and duplicate rows their staff really produce.

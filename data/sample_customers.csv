@@ -1,0 +1,186 @@
+customer_id,customer_name,phone,city,source,first_visit_date
+C001,Parth Trivedi,9896233790,Vallabh Vidyanagar,Walk-in,2026-03-12
+C002,Hetal Trivedi,7895285932,Anand,Instagram,2026-05-20
+C003,Aditya Patel,9334760738,Nadiad,Instagram,2026-03-01
+C004,Geeta Rathod,7797808098,Nadiad,Walk-in,2026-06-29
+C005,Mahesh Zala,8969119330,Vallabh Vidyanagar,Instagram,2026-01-02
+C006,Dhruv Solanki,9331191390,Anand,Walk-in,2026-03-28
+C007,Krishna Dave,8748245888,Anand,Referral,2026-03-09
+C008,Rekha Trivedi,8184611066,Karamsad,Referral,2026-05-22
+C009,Viral Dave,7306468299,Anand,Walk-in,2026-06-30
+C010,Sara Makwana,9349957310,Borsad,Walk-in,2026-01-26
+C011,Parth Dave,9497478786,Vallabh Vidyanagar,Instagram,2026-04-01
+C012,Amit Desai,7781802744,Nadiad,Referral,2026-02-13
+C013,Ananya Prajapati,,Karamsad,Google,2026-04-08
+C014,Parth Gohil,9835098955,Anand,Walk-in,2026-03-25
+C015,Aditya Joshi,8387484583,Vallabh Vidyanagar,Google,2026-01-17
+C016,Sunita Joshi,9803771909,Borsad,Referral,2026-05-08
+C017,Yash Prajapati,9384412919,Vallabh Vidyanagar,Referral,2026-02-05
+C018,Rekha Solanki,7727694430,Nadiad,Walk-in,2026-04-20
+C019,Sara Mehta,7629908599,Anand,Referral,2026-01-24
+C020,Kabir Chauhan,7553290810,Anand,Walk-in,2026-06-02
+C021,Lata Prajapati,7369953851,Anand,Instagram,2026-05-22
+C022,Ishaan Gohil,8925276600,Karamsad,Walk-in,2026-06-14
+C023,Jignesh Chauhan,8103484630,Nadiad,Referral,2026-03-09
+C024,Meera Trivedi,7420452650,Nadiad,Instagram,2026-06-13
+C025,Kabir Dave,9679153816,Anand,Instagram,2026-05-16
+C026,Kiran Patel,9489747629,Vallabh Vidyanagar,Walk-in,2026-03-20
+C027,Prakash Zala,9191969690,Anand,Google,2026-05-05
+C028,Rekha Mehta,,Petlad,Instagram,2026-02-02
+C029,Geeta Chauhan,8666585408,Borsad,Google,2026-06-05
+C030,Rakesh Gohil,7840739735,Petlad,Walk-in,2026-02-21
+C031,Dev Dave,8655742829,Anand,Walk-in,2026-04-26
+C032,Sai Joshi,9731691672,Vallabh Vidyanagar,Instagram,2026-05-22
+C033,Aarav Desai,7777641645,Vallabh Vidyanagar,Walk-in,2026-01-16
+C034,Sai Chaudhary,9399012686,Borsad,Walk-in,2026-06-21
+C035,Rohan Zala,7607526654,Borsad,Referral,2026-03-04
+C036,Aadhya Trivedi,9807577342,Karamsad,Walk-in,2026-04-21
+C037,Ramesh Shah,7801642483,Anand,Walk-in,2026-06-15
+C038,Vijay Joshi,9366992705,Vallabh Vidyanagar,Instagram,2026-02-19
+C039,Rohan Thakkar,9399085574,Vallabh Vidyanagar,Referral,2026-04-29
+C040,Sai Prajapati,7205128697,Petlad,Google,2026-01-13
+C041,Dipak Patel,9909134796,Vallabh Vidyanagar,Walk-in,2026-03-02
+C042,Suresh Rathod,8162959284,Borsad,Walk-in,2026-02-12
+C043,Nikhil Solanki,8406284028,Petlad,Google,2026-04-19
+C044,Bhavik Gohil,7871385010,Vallabh Vidyanagar,Walk-in,2026-05-05
+C045,Myra Shah,,Petlad,Instagram,2026-05-29
+C046,Hetal Joshi,9153839920,Borsad,Instagram,2026-05-30
+C047,Hiren Chaudhary,9161073976,Anand,Referral,2026-05-11
+C048,Sai Rabari,9825003955,Borsad,Walk-in,2026-03-02
+C049,Ira Zala,7142672287,Anand,Walk-in,2026-06-08
+C050,Asha Zala,7439699535,Vallabh Vidyanagar,Instagram,2026-03-08
+C051,Aryan Parmar,8524971817,Petlad,Instagram,2026-02-03
+C052,Ramesh Joshi,9110002396,Nadiad,Google,2026-04-28
+C053,Krishna Desai,7328872698,Karamsad,Walk-in,2026-05-10
+C054,Karan Desai,9496776692,Vallabh Vidyanagar,Walk-in,2026-03-14
+C055,Rekha Makwana,7966616964,Nadiad,Walk-in,2026-06-17
+C056,Nilesh Gohil,8812308209,Vallabh Vidyanagar,Walk-in,2026-01-27
+C057,Prakash Trivedi,7694019365,Karamsad,Walk-in,2026-02-09
+C058,Myra Joshi,9838194420,Karamsad,Instagram,2026-06-12
+C059,Priya Shah,9781057736,Karamsad,Walk-in,2026-04-19
+C060,Dhruv Mehta,7381272327,Petlad,Walk-in,2026-02-11
+C061,Sanjay Thakkar,7110382761,Anand,Google,2026-01-29
+C062,Amit Mehta,7138684919,Nadiad,Instagram,2026-04-05
+C063,Jignesh Mehta,9430989881,Anand,Referral,2026-04-04
+C064,Myra Parmar,,Anand,Walk-in,2026-06-20
+C065,Geeta Thakkar,7904745462,Vallabh Vidyanagar,Referral,2026-02-09
+C066,Chirag Chauhan,8126614158,Petlad,Google,2026-02-15
+C067,Bhavik Thakkar,7889262019,Karamsad,Walk-in,2026-03-05
+C068,Amit Trivedi,8141580226,Vallabh Vidyanagar,Walk-in,2026-05-01
+C069,Mukesh Prajapati,8427696198,Vallabh Vidyanagar,Walk-in,2026-02-28
+C070,Aadhya Bhatt,8399147754,Karamsad,Walk-in,2026-01-18
+C071,Meera Bhatt,7675757257,Anand,Walk-in,2026-03-26
+C072,Priya Chauhan,7385042337,Anand,Instagram,2026-01-10
+C073,Karan Joshi,8750911797,Anand,Walk-in,2026-05-11
+C074,Sunita Rathod,8147659674,Anand,Instagram,2026-04-22
+C075,Chirag Gohil,7872482077,Vallabh Vidyanagar,Walk-in,2026-06-21
+C076,Viral Joshi,7233815413,Nadiad,Walk-in,2026-03-18
+C077,Hardik Joshi,8848621833,Nadiad,Walk-in,2026-03-17
+C078,Hardik Bhatt,7903303363,Nadiad,Instagram,2026-02-14
+C079,Sagar Gohil,9426283245,Vallabh Vidyanagar,Walk-in,2026-03-15
+C080,Asha Rabari,7446012478,Borsad,Walk-in,2026-04-30
+C081,Myra Chaudhary,8952266893,Petlad,Walk-in,2026-02-13
+C082,Meera Rabari,,Anand,Referral,2026-03-27
+C083,Kinjal Parmar,7433310361,Vallabh Vidyanagar,Walk-in,2026-02-27
+C084,Aditya Parmar,8756350429,Borsad,Walk-in,2026-01-19
+C085,Parth Zala,9871318048,Borsad,Instagram,2026-06-28
+C086,Ira Mehta,7838328947,Anand,Referral,2026-01-02
+C087,Sara Chauhan,7656152900,Anand,Instagram,2026-04-29
+C088,Mukesh Trivedi,8243171768,Petlad,Instagram,2026-04-29
+C089,Geeta Rabari,8910943524,Nadiad,Referral,2026-04-24
+C090,Anil Chaudhary,8991816852,Borsad,Referral,2026-05-21
+C091,Hetal Vaghela,8378304807,Petlad,Walk-in,2026-03-05
+C092,Falguni Chaudhary,8772966010,Karamsad,Walk-in,2026-03-03
+C093,Sanjay Makwana,9391751878,Karamsad,Referral,2026-03-27
+C094,Reyansh Mehta,9348315126,Petlad,Walk-in,2026-04-09
+C095,Myra Desai,8537656494,Nadiad,Instagram,2026-03-26
+C096,Arjun Rathod,8518197538,Petlad,Walk-in,2026-05-30
+C097,Nikhil Vaghela,9477698143,Borsad,Referral,2026-03-18
+C098,Dipak Thakkar,7902638839,Nadiad,Referral,2026-05-20
+C099,Kiran Parmar,8567975319,Anand,Walk-in,2026-05-05
+C100,Dev Bhatt,7277215428,Vallabh Vidyanagar,Google,2026-04-30
+C101,Rekha Patel,8735540030,Petlad,Walk-in,2026-05-25
+C102,Yash Thakkar,9595744935,Anand,Walk-in,2026-02-16
+C103,Aryan Rathod,8450948014,Borsad,Walk-in,2026-03-28
+C104,Priya Desai,8120812641,Anand,Google,2026-05-19
+C105,Karan Parmar,,Anand,Referral,2026-06-16
+C106,Yash Shah,9365518424,Anand,Instagram,2026-02-21
+C107,Suresh Trivedi,7334037646,Petlad,Walk-in,2026-04-30
+C108,Manav Chauhan,7752027025,Vallabh Vidyanagar,Google,2026-01-30
+C109,Krishna Zala,9434961542,Petlad,Google,2026-05-28
+C110,Nikhil Bhatt,7312954978,Nadiad,Instagram,2026-01-20
+C111,Parth Parmar,9848605284,Petlad,Instagram,2026-03-19
+C112,Ishaan Zala,9472807202,Borsad,Instagram,2026-05-17
+C113,Yash Joshi,9551034639,Anand,Walk-in,2026-05-06
+C114,Manav Prajapati,7264272995,Vallabh Vidyanagar,Referral,2026-04-22
+C115,Yash Solanki,7967797300,Borsad,Instagram,2026-05-18
+C116,Nilesh Zala,8446071904,Anand,Walk-in,2026-03-04
+C117,Mahesh Parmar,8711871397,Petlad,Walk-in,2026-06-06
+C118,Vivaan Vaghela,8295249057,Vallabh Vidyanagar,Walk-in,2026-05-05
+C119,Priya Joshi,8740116562,Karamsad,Instagram,2026-06-29
+C120,Nita Rathod,9359154084,Borsad,Instagram,2026-04-15
+C121,Ira Vaghela,7864334960,Borsad,Referral,2026-05-06
+C122,Reyansh Makwana,9534222401,Vallabh Vidyanagar,Walk-in,2026-06-27
+C123,Asha Dave,8694287057,Karamsad,Walk-in,2026-05-16
+C124,Hetal Gohil,8477753674,Borsad,Walk-in,2026-06-29
+C125,Priya Parmar,9874473159,Karamsad,Walk-in,2026-02-19
+C126,Rekha Chauhan,9332341238,Karamsad,Referral,2026-05-04
+C127,Kinjal Chaudhary,,Karamsad,Google,2026-06-02
+C128,Dipak Rathod,8344258191,Vallabh Vidyanagar,Walk-in,2026-04-03
+C129,Sanjay Gohil,9394539550,Anand,Instagram,2026-01-12
+C130,Parth Vaghela,9113169872,Karamsad,Instagram,2026-05-27
+C131,Mahesh Joshi,9155165334,Borsad,Walk-in,2026-03-06
+C132,Sai Bhatt,8179545125,Petlad,Instagram,2026-05-28
+C133,Kabir Mehta,7426240903,Vallabh Vidyanagar,Walk-in,2026-01-22
+C134,Kinjal Thakkar,7740086326,Vallabh Vidyanagar,Referral,2026-06-08
+C135,Nikhil Prajapati,8419280490,Borsad,Walk-in,2026-05-31
+C136,Viral Shah,7894664845,Vallabh Vidyanagar,Instagram,2026-01-26
+C137,Ananya Parmar,9692697161,Vallabh Vidyanagar,Walk-in,2026-01-20
+C138,Mahesh Rabari,8412737284,Vallabh Vidyanagar,Walk-in,2026-01-09
+C139,Navya Prajapati,9838073939,Karamsad,Referral,2026-03-01
+C140,Dev Rathod,8223240112,Vallabh Vidyanagar,Instagram,2026-05-20
+C141,Mukesh Solanki,9176675731,Vallabh Vidyanagar,Referral,2026-01-16
+C142,Lata Zala,8571537429,Borsad,Instagram,2026-02-01
+C143,Amit Bhatt,8637377910,Borsad,Walk-in,2026-05-19
+C144,Lata Shah,8888699799,Nadiad,Walk-in,2026-03-24
+C145,Reyansh Parmar,7997603725,Nadiad,Google,2026-05-28
+C146,Kinjal Solanki,7143198431,Borsad,Instagram,2026-02-14
+C147,Mahesh Solanki,9728492896,Petlad,Referral,2026-04-22
+C148,Reyansh Vaghela,8538460431,Karamsad,Instagram,2026-03-27
+C149,Hiren Chauhan,8542000551,Borsad,Walk-in,2026-06-27
+C150,Aditya Prajapati,,Karamsad,Walk-in,2026-01-23
+C151,Ishaan Bhatt,7985758835,Petlad,Referral,2026-01-01
+C152,Ramesh Thakkar,9301415220,Karamsad,Instagram,2026-05-13
+C153,Kiran Prajapati,9318568997,Nadiad,Walk-in,2026-03-10
+C154,Prakash Vaghela,9130998324,Nadiad,Referral,2026-06-11
+C155,Sanjay Chauhan,8691458887,Nadiad,Walk-in,2026-01-04
+C156,Sara Trivedi,8226128312,Vallabh Vidyanagar,Instagram,2026-06-15
+C157,Meera Solanki,8996278008,Borsad,Walk-in,2026-05-04
+C158,Geeta Mehta,8304666325,Nadiad,Referral,2026-06-03
+C159,Rohan Desai,8929653607,Karamsad,Google,2026-04-17
+C160,Nilesh Patel,8879591310,Nadiad,Instagram,2026-03-18
+C161,Dev Vaghela,9579476614,Borsad,Walk-in,2026-05-18
+C162,Geeta Gohil,8588922557,Vallabh Vidyanagar,Google,2026-03-24
+C163,Nikhil Parmar,8146865930,Petlad,Instagram,2026-03-23
+C164,Mukesh Bhatt,8812630453,Vallabh Vidyanagar,Instagram,2026-06-16
+C165,Aditya Mehta,7733701411,Anand,Referral,2026-03-26
+C166,Mahesh Trivedi,7590622789,Petlad,Walk-in,2026-01-04
+C167,Mitesh Mehta,9604111692,Karamsad,Instagram,2026-03-09
+C168,Sagar Desai,8824085842,Borsad,Google,2026-05-17
+C169,Mitesh Gohil,9762992051,Vallabh Vidyanagar,Instagram,2026-01-18
+C170,Mukesh Makwana,9901834280,Borsad,Google,2026-01-24
+C171,Kinjal Trivedi,8278632824,Karamsad,Google,2026-06-27
+C172,Bhavik Shah,,Karamsad,Walk-in,2026-03-17
+C173,Kabir Parmar,7542437192,Petlad,Referral,2026-05-25
+C174,Ananya Chauhan,9754436820,Nadiad,Instagram,2026-04-08
+C175,Kiran Zala,9349310440,Petlad,Walk-in,2026-04-29
+C176,Priya Patel,8408842146,Nadiad,Walk-in,2026-06-23
+C177,Mahesh Dave,7421214426,Borsad,Instagram,2026-06-13
+C178,Ramesh Makwana,9513061224,Anand,Walk-in,2026-05-04
+C179,Sunita Dave,7417690559,Karamsad,Walk-in,2026-06-29
+C180,Dipak Bhatt,8108695125,Petlad,Referral,2026-05-25
+C181,Arjun Rabari,7633356861,Vallabh Vidyanagar,Instagram,2026-03-15
+C182,Parth Rathod,7369108475,Petlad,Referral,2026-06-23
+C183,Raj Mehta,7204328975,Petlad,Walk-in,2026-06-10
+C184,Bhavik Prajapati,9722312633,Petlad,Walk-in,2026-04-04
+C185,Aryan Thakkar,9315601773,Nadiad,Referral,2026-02-03

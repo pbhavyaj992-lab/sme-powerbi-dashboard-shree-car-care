@@ -1,0 +1,55 @@
+expense_id,expense_date,category,description,amount_inr,payment_method
+E006,2026-01-02,Utilities,Water bill,711,Cash
+E008,2026-01-02,Maintenance,Equipment maintenance,1833,Cash
+E001,2026-01-04,Rent,Rent - shop,18000,UPI
+E004,2026-01-09,Materials,Cloths and consumables,2232,Bank Transfer
+E003,2026-01-13,Materials,Detailing chemicals,8037,Bank Transfer
+E009,2026-01-14,Other,Miscellaneous,846,UPI
+E005,2026-01-20,Utilities,Electricity bill,4903,UPI
+E002,2026-01-21,Salaries,Staff salaries,36000,Bank Transfer
+E007,2026-01-21,Marketing,Instagram ads,2707,Bank Transfer
+E011,2026-02-01,Salaries,Staff salaries,36000,UPI
+E016,2026-02-04,Marketing,Instagram ads,2937,Cash
+E018,2026-02-04,Other,Miscellaneous,920,Bank Transfer
+E015,2026-02-14,Utilities,Water bill,942,Bank Transfer
+E013,2026-02-17,Materials,Cloths and consumables,2920,UPI
+E014,2026-02-20,Utilities,Electricity bill,3917,Bank Transfer
+E017,2026-02-20,Maintenance,Equipment maintenance,1113,UPI
+E012,2026-02-22,Materials,Detailing chemicals,8006,UPI
+E010,2026-02-23,Rent,Rent - shop,18000,Cash
+E024,2026-03-01,Utilities,Water bill,802,UPI
+E021,2026-03-02,Materials,Detailing chemicals,9538,Cash
+E025,2026-03-03,Marketing,Instagram ads,3093,Bank Transfer
+E019,2026-03-07,Rent,Rent - shop,18000,UPI
+E022,2026-03-07,Materials,Cloths and consumables,2206,Cash
+E020,2026-03-14,Salaries,Staff salaries,36000,UPI
+E023,2026-03-16,Utilities,Electricity bill,4647,UPI
+E027,2026-03-16,Other,Miscellaneous,1571,UPI
+E026,2026-03-27,Maintenance,Equipment maintenance,1338,Cash
+E030,2026-04-02,Materials,Detailing chemicals,7868,UPI
+E036,2026-04-02,Other,Miscellaneous,1024,UPI
+E035,2026-04-04,Maintenance,Equipment maintenance,1007,Bank Transfer
+E031,2026-04-06,Materials,Cloths and consumables,2847,Bank Transfer
+E029,2026-04-10,Salaries,Staff salaries,36000,UPI
+E034,2026-04-14,Marketing,Instagram ads,2981,Bank Transfer
+E028,2026-04-21,Rent,Rent - shop,18000,UPI
+E033,2026-04-26,Utilities,Water bill,1070,Cash
+E032,2026-04-28,Utilities,Electricity bill,3553,UPI
+E040,2026-05-04,Materials,Cloths and consumables,3158,UPI
+E045,2026-05-06,Other,Miscellaneous,1396,UPI
+E042,2026-05-13,Utilities,Water bill,787,Cash
+E041,2026-05-15,Utilities,Electricity bill,4725,UPI
+E043,2026-05-16,Marketing,Instagram ads,2173,Bank Transfer
+E037,2026-05-20,Rent,Rent - shop,18000,UPI
+E044,2026-05-21,Maintenance,Equipment maintenance,1532,Bank Transfer
+E038,2026-05-24,Salaries,Staff salaries,36000,UPI
+E039,2026-05-27,Materials,Detailing chemicals,8066,UPI
+E052,2026-06-05,Marketing,Instagram ads,1712,UPI
+E049,2026-06-12,Materials,Cloths and consumables,1920,Cash
+E054,2026-06-14,Other,Miscellaneous,1709,UPI
+E046,2026-06-16,Rent,Rent - shop,18000,Bank Transfer
+E053,2026-06-16,Maintenance,Equipment maintenance,1652,UPI
+E048,2026-06-20,Materials,Detailing chemicals,10351,UPI
+E047,2026-06-22,Salaries,Staff salaries,36000,UPI
+E051,2026-06-27,Utilities,Water bill,781,Bank Transfer
+E050,2026-06-28,Utilities,Electricity bill,5129,Cash

@@ -1,0 +1,9 @@
+service_id,service_name,category,price_inr,duration_minutes
+S01,Basic Wash,Wash,499,45
+S02,Foam Wash + Vacuum,Wash,799,60
+S03,Interior Detailing,Detailing,2499,180
+S04,Ceramic Coating - 1 Year,Coating,9999,360
+S05,Paint Protection - Single Panel,Coating,14999,420
+S06,Engine Bay Cleaning,Detailing,999,60
+S07,Headlight Restoration,Detailing,1299,90
+S08,Bike Detailing,Wash,699,60
